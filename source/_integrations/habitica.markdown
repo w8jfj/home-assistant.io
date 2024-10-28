@@ -2,8 +2,8 @@
 title: Habitica
 description: Instructions on enabling Habitica support for your Home Assistant
 ha_category:
-  - To-do list
   - Sensor
+  - To-do list
 ha_release: 0.78
 ha_iot_class: Cloud Polling
 ha_domain: habitica

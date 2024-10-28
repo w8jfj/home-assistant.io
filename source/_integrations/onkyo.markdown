@@ -8,12 +8,13 @@ ha_iot_class: Local Push
 ha_domain: onkyo
 ha_platforms:
   - media_player
-ha_integration_type: integration
+ha_integration_type: device
 related:
   - docs: /docs/configuration/
     title: Configuration file
 ha_codeowners:
   - '@arturpragacz'
+ha_config_flow: true
 ---
 
 The `onkyo` {% term integration %} allows you to control a [Onkyo](https://www.onkyo.com), [Integra](http://www.integrahometheater.com)
